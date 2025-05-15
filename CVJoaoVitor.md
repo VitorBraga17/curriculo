@@ -1,61 +1,72 @@
 # João Vitor de Araújo Braga
 **Software Engineer**  
-📧 joaovitor1702@gmail.com  
+📧 joaovitor1702@gmail.com  | +55 (74) 98101-8871 | [GitHub](https://github.com/joaovitorbraga) | [Linkedin](https://www.linkedin.com/in/vitorbraga17/)
 
 ---
 
 ## Summary
 
-Bachelor in Computer Science and highly skilled software developer with 2 years of experience. Proficient in a wide range of programming languages, including Java, Kotlin,Golang and JavaScript, with a deep understanding of software architecture and design patterns. Experience working with both frontend and backend technologies, such as Spring, React, Node.js, SQL, and NoSQL. Seeking to deepen my knowledge in all aspects of software development to bring the best possible solutions.
+Bachelor’s degree in Computer Science and a highly skilled software engineer with 5+ years of hands-on experience. Proficient in Java, Kotlin, Golang, and JavaScript with strong expertise in backend development, microservices, and cloud-native architectures. Experienced in both frontend and backend stacks including Spring, React, Node.js, SQL, and NoSQL. High experience in improving financial institutions. Passionate about designing scalable, maintainable systems and continuously improving software delivery practices.
 
 ---
 
-## Experience
+## Professional Experience
 
-### 7Comm - Services and Technology  
-**Developer Internship**  
-📅 10/2020 to 04/2021 — *Remote*  
-- Web systems development using Java  
-- Frontend development with JavaScript  
-- Use of Corda 5 blockchain tool for smart contracts  
-- Developed small solutions using Node.js and React.js  
+## PicPay  
+### Software Engineer  
+🗓️ 02/2025 to Present  
+**Stack:** Java, Kotlin, Spring Boot, Spring Cloud, Redis, RabbitMQ, Kafka, Spring Batch, Spring Data, Prometheus, GitOps-based CI/CD tools  
+- Building and maintaining scalable backend services and APIs in Java and Kotlin.  
+- Creating distributed systems with Spring Cloud and Kafka for messaging.  
+- Implementing caching strategies with Redis and fault-tolerant patterns with Resilience4j.  
+- Developing robust batch jobs for data processing using Spring Batch.  
+- Designing CI/CD pipelines using our GitOps-based internal tools.  
+- Monitoring and alerting systems through Prometheus dashboards.
 
-### CI&T  
-**Software Engineer**  
-📅 06/2021 to 08/2023 — *Remote*  
-- Backend development in Java using JPA/Hibernate, JDBC, and Spring  
-- Developed microservices with Spring Cloud  
-- Oracle database queries for backend communication  
-- Used SonarQube for code quality, test coverage, and security  
-- Microservices communication via Kafka  
-- Observability with Dynatrace and DataDog  
-- Agile methodologies with Kanban  
-- Implemented Resilience4j (Retry, CircuitBreaker)  
-- Used Spring Security for OAuth 2.0 and Bearer Token authentication  
-- Helped implement architectural design patterns for task granularity  
+## Pagbank  
+### Software Engineer  
+🗓️ 08/2023 to 02/2025  
+**Stack:** Kotlin, Spring Boot, Spring Data, Spring Cloud, Spring Batch, Kafka, Kafka Connector, Metabase, Prometheus, Jenkins  
+- Designed microservices architecture for investment and stock market features.  
+- Used clean and hexagonal architecture principles to create modular, testable services.  
+- Built and maintained data pipelines for asynchronous processing using Kafka.  
+- Implemented dashboards and reporting tools using Metabase.  
+- Managed Jenkins pipelines for continuous integration and deployment.  
+- Collaborated in agile squads using Kanban methodology.
 
-### Pagbank  
-**Software Engineer**  
-📅 08/2023 to 02/2025  
-- Development in the investment/stockmarket area  
-- Microservices architecture using Kotlin and Spring Boot  
-- Clean and hexagonal architecture  
-- Tools: Spring Data, Spring Cloud, Spring Batch, Kafka, Kafka Connector  
-- Data analysis tools: Metabase, Prometheus  
-- Pipeline development with Jenkins  
-- Agile development using Kanban  
+## CI&T  
+### Software Engineer    
+🗓️ 06/2021 to 08/2023  
+**Stack:** Java, Spring Boot, JPA/Hibernate, JDBC, Oracle DB, Kafka, RabbitMQ, SonarQube, Dynatrace, DataDog, Spring Security, Resilience4j  
+- Developed and maintained enterprise-level backend systems using Java and Spring.  
+- Created microservices communicating over Kafka and RabbitMQ.  
+- Wrote SQL queries and managed Oracle DB integrations.  
+- Applied Resilience4j Retry and CircuitBreaker to enhance fault tolerance.  
+- Ensured code quality using SonarQube and implemented secure authentication with Spring Security and OAuth 2.0.  
+- Participated in agile ceremonies and collaborated with cross-functional teams.
 
-### PicPay  
-**Software Engineer**  
-📅 02/2025 to Present  
-- Backend systems development in Java and Kotlin  
-- Created scalable services using Spring Boot and Spring Cloud  
-- Leveraged Redis for caching and RabbitMQ/Kafka for messaging  
-- Implemented Resilience4j for fault tolerance  
-- Built data processing jobs with Spring Batch  
-- Used Spring Data for efficient database operations  
-- Monitored systems using Prometheus  
-- Creating and editing pipelines with our tool based on GitOps
+## 7Comm - Services and Technology  
+### Developer Internship  
+🗓️ 10/2020 to 04/2021  
+**Stack:** Java, Spring Boot, Spring Data, JavaScript, AngularJS, MySQL, Kotlin, Corda Blockchain  
+- Developed web systems with Java and Spring Boot.  
+- Built UI components and pages using AngularJS and JavaScript.  
+- Wrote backend services using Spring Data for persistence with MySQL.  
+- Created smart contracts in Kotlin for blockchain solutions with Corda 5.  
+- Designed and deployed a geospatial solution to map cattle in risk-prone areas.
+
+---
+
+## Freelancer Experience
+
+### Freelancer Developer  
+🗓️ 08/2022 to Present   
+**Stack:** TypeScript, Node.js, React, React Native, Expo Framework, Next.js, GraphQL
+- Delivered full-stack web and mobile solutions for clients with small business
+- Developed scalable backend services with Node.js and TypeScript using REST and GraphQL APIs.  
+- Created cross-platform mobile apps with React Native and Expo, integrating device features like camera, file system, and notifications.  
+- Developed a mobile app with relevant information on breastfeeding and postpartum tips for pregnant women using React Native and Expo.  
+- Built an internal training app simulating a "Who Wants to Be a Millionaire?" quiz game to engage and educate employees in a fun, interactive way.
 
 ---
 
@@ -63,30 +74,23 @@ Bachelor in Computer Science and highly skilled software developer with 2 years 
 
 ### FACAPE  
 **Bachelor in Computer Science**  
-📅 2019 to 2022  
-- Prestigious institution with a strong academic reputation  
-- Solid foundation in CS principles, programming, software development tools, and DBMS  
+🗓️ 2019 to 2022  
+- Covered core subjects including algorithms, data structures, distributed systems, and databases  
+- Developed foundational skills in programming, software engineering, and system design
 
 ---
 
 ## Skills
 
-- **Languages**: Java, Kotlin, JavaScript  
-- **Databases**: SQL, NoSQL  
-- **Frameworks/Tools**: Node.js, Kafka, Spring, React  
-- **Methodologies**: Agile  
-
----
-
-## Certifications
-
-**High Intermediate Voxy Proficiency Test**  
-📅 April 2022  
-🔗 [Drive Link](https://drive.google.com/file/d/1ixes4lKLlIysd2Ve11VdbB2xJFSybi4C/view?usp=sharing)
+- **Languages:** Java, Kotlin, JavaScript,Typescript
+- **Databases:** SQL(Postgres,MySQL,Oracle), NoSQL(MongoDB) 
+- **Frameworks/Tools:** Spring Boot, Spring Data, Spring Cloud, Spring Batch, Kafka, React, Node.js, Jenkins, Prometheus,NestJs,React,React Native, AngularJS
+- **Other:** GitOps, Agile, Resilience4j, OAuth2.0, Microservices, Clean Architecture,Datadog,Prometheus.
 
 ---
 
 ## Languages
 
-- **Portuguese**: Native  
-- **English**: High Intermediate  
+- **Portuguese:** Native  
+- **Spanish:** Intermediate   
+- **English:** Professional  
